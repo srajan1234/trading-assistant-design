@@ -1,6 +1,6 @@
 # Trading Assistant
 
-> **What this repository is:** the design documentation and demo for Trading Assistant — high-level design, low-level design and key flows. The application source code is private. More projects: [portfolio](https://srajan1234.github.io/portfolio/).
+> **What this repository is:** the design documentation and demo for Trading Assistant — high-level design, low-level design and key flows. **The full source code is private because this is a personal project; I am happy to walk through it or discuss it on request.** More projects: [portfolio](https://srajan1234.github.io/portfolio/).
 
 > A real-time, browser-based trading assistant for the Indian equity/derivatives market (NSE) — intraday options and BTST (Buy Today, Sell Tomorrow) strategies, powered by a Node.js data-proxy backend and a shared technical-analysis engine.
 
